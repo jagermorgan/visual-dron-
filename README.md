@@ -1,2 +1,16 @@
-# visual-dron-
-# Visual Dron 🚀  Plataforma de monitoreo y análisis con drones para proyectos de ingeniería civil.   Permite capturar imágenes y videos aéreos, procesarlos (mapas, modelos 3D, métricas) y visualizarlos en una interfaz web para optimizar inspecciones y seguimiento de obras.
+# Visual Dron
+
+Proyecto web con páginas HTML, scripts, estilos y carpetas para gifs e imágenes.
+
+## Estructura
+- `index.html`
+- `construccion.html`
+- `explorador.html`
+- `medicion.html`
+- `quienes-somos.html`
+- `registro.html`
+- `scripts.js`
+- `style.css`
+- `assets/gifs/`
+- `assets/img/`
+- Imágenes: `adorno.3.png`, `adorno1.png`
